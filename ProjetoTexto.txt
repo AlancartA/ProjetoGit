@@ -4,3 +4,5 @@ texto teste minicurso github
 git init ---- inicia o repositorio
 git add ----adiciona um repositorio
 gir commit -m "fist commit"-----primeiro commit
+
+Alteração TulioGonçalves por pull request.
